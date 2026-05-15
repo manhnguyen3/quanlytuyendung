@@ -7,7 +7,7 @@ const DEFAULT_GOOGLE_SHEET_PUB_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vQs96Y38iag14gR2tVg72YahtcmbfOFyuZbwUNFlzp7qA2juTWHxon6SDe6hRdLDBpx_sDkcMGvV8MR/pubhtml";
 
 /** Google AI Studio (Gemini) — mặc định trong app, không hiển thị trên giao diện */
-const DEFAULT_GEMINI_API_KEY = "AIzaSyAomKqjZ4PYhUNYM8qn91MDX0gZ6y1_Rf4";
+const DEFAULT_GEMINI_API_KEY = "AIzaSyBuWWcgZ6FWAD0DFQHO5Nb10UK87sGBtz4";
 const DEFAULT_GEMINI_MODEL = "gemini-2.5-flash";
 
 const STATUS_LABELS = {
