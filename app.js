@@ -8,7 +8,7 @@ const DEFAULT_GOOGLE_SHEET_PUB_URL =
 
 /** Google AI Studio (Gemini) — mặc định trong app, không hiển thị trên giao diện */
 const DEFAULT_GEMINI_API_KEY = "AIzaSyAomKqjZ4PYhUNYM8qn91MDX0gZ6y1_Rf4";
-const DEFAULT_GEMINI_MODEL = "gemini-1.5-flash";
+const DEFAULT_GEMINI_MODEL = "gemini-2.5-flash";
 
 const STATUS_LABELS = {
   new: "Chưa tạo câu hỏi",
